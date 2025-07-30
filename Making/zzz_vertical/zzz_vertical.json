@@ -1,0 +1,85 @@
+{
+  "default_height": 0,
+  "default_width": 0,
+  "elements": [
+    {
+      "id": "body",
+      "mapping": [0, 0, 608, 362],
+      "pos": [0, 0],
+      "type": 0,
+      "z_level": 0
+    },
+    {
+      "code": 0,
+      "id": "a",
+      "mapping": [216, 380, 128, 128],
+      "pos": [216, 234],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 1,
+      "id": "b",
+      "mapping": [82, 380, 128, 128],
+      "pos": [82, 234],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 3,
+      "id": "y",
+      "mapping": [350, 380, 128, 128],
+      "pos": [350, 234],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 2,
+      "id": "x",
+      "mapping": [480, 656, 128, 128],
+      "pos": [480, 102],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "code": 9,
+      "id": "ls",
+      "mapping": [484, 382, 124, 124],
+      "pos": [484, 236],
+      "type": 2,
+      "z_level": 1
+    },
+    {
+      "direction": 1,
+      "id": "lt",
+      "mapping": [
+        220,
+        659,
+        124,
+        124
+      ],
+      "pos": [
+        350,
+        106
+      ],
+      "side": 0,
+      "trigger_mode": false,
+      "type": 6,
+      "z_level": 1
+    },
+    {
+      "id": "left_analog_stick",
+      "mapping": [40, 656, 154, 154],
+      "pos": [40, 40],
+      "side": 0,
+      "stick_radius": 40,
+      "type": 5,
+      "z_level": 1
+    }
+  ],
+  "flags": 6,
+  "overlay_height": 362,
+  "overlay_width": 608,
+  "space_h": 0,
+  "space_v": 0
+}
