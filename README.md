@@ -9,4 +9,4 @@ skill、Making文件夹内容为技能图标等制作时留下的素材
 # 重点
 该内容为开源内容，若使用素材有侵权，请联系 2976472504@qq.com 进行删除
 # 支持方式
-[![B站二维码](images/二维码.png)](https://space.bilibili.com/249011690)
+[![B站二维码](IMG_4047(20260323-033217).JPG)](https://space.bilibili.com/249011690)
